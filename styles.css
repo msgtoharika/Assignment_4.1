@@ -1,0 +1,5 @@
+/*applying style to only 3rd child*/
+
+div.three ul li:nth-child(3) {
+    background-color: blue;
+}
